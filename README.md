@@ -1,3 +1,3 @@
-### Imhere 
-## React-native with TypeScript
+## Imhere 
+### React-native with TypeScript
 #
